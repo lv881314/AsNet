@@ -1,2 +1,2 @@
 # AsNet
-AsNet: Asymmetric Network for Real-time semantic segmentation of Road Scenes
+AsNet: Asymmetric Network for Real-time semantic segmentation in Traffic Scenes
